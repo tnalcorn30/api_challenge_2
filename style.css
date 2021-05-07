@@ -1,0 +1,35 @@
+body {
+    background-image: url(/assets/YvgIUo.jpg);
+    background-size:cover;
+    background-color: cornflowerblue;
+}
+
+#intro {
+    background-color: darkcyan;
+    color: pink;
+    font-family: 'buka_birdregular', Arial, sans-serif;
+}
+
+.iframe {
+    min-width: auto;
+}
+
+.btn-light {
+    background-color: whitesmoke;
+}
+
+.responsive-iframe {
+    position: relative;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    width: 600px;
+    height: 400px;
+}
+
+.footer {
+    position: fixed;
+    bottom:0px;
+}
+/* min-width */
