@@ -1,5 +1,5 @@
 body {
-    background-image: url(/assets/YvgIUo.jpg);
+    background-image: url(/public/assets/YvgIUo.jpg);
     background-size:cover;
     background-color: cornflowerblue;
 }
@@ -32,4 +32,3 @@ body {
     position: fixed;
     bottom:0px;
 }
-/* min-width */
